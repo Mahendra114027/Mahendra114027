@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Mahendra114027/Mahendra114027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there 👋, I'm Mahendra
+### I'm a full time Data Science Engineer, working in Bengaluru
+
+- 🔭 Currently working at **[Sumyag Data Sciences Pvt Ltd][sumyag]**
+- 🌱 I’m currently learning algorithms, design, statistics
+- ⚙️ I employ `.python`, `.sql`, `.sh`, `.json`, `.yml` for my day to day work
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to cook
+
+<br />
+
+[sumyag]: https://www.sumyag.com/
