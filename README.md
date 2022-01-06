@@ -16,12 +16,13 @@ Here are some ideas to get you started:
 ## Hi there 👋, I'm Mahendra
 ### I'm a full time Data Science Engineer, working in Bengaluru
 
-- 🔭 Currently working at **[Sumyag Data Sciences Pvt Ltd][sumyag]**
-- 🌱 I’m currently learning algorithms, design, statistics and machine learning
-- ⚙️ I employ `.python`, `.sql`, `.sh`, `.json`, `.yml` for my day to day work
-- 🥅 2021 Goals: Upskilling and gaining knowledge
-- ⚡ Fun fact: I love to cook
+- 🔭 Currently studying at **[Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)][fau]**.
+- 🌱 I’m currently learning algorithms, design, statistics and machine learning.
+- ⚙️ I employ `.python`, `.sql`, `.sh`, `.json`, `.yml` for my day to day work.
+- 👯 I’m looking to collaborate on projects.
+- 🥅 2022 Goals: Upskilling and Gaining knowledge.
+- ⚡ Fun fact: I love to cook.
 
 <br />
 
-[sumyag]: https://www.sumyag.com/
+[fau]: https://www.fau.eu/
