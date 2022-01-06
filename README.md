@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 ## Hi there 👋, I'm Mahendra
-### I'm a full time Data Science Engineer, working in Bengaluru
+### I'm a full time student, living in Erlangen, Germany.
 
-- 🔭 Currently studying at **[Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)][fau]**.
+- 🔭 Currently studying **MSc. Artificial Intelligence** at **[Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)][fau]**.
 - 🌱 I’m currently learning algorithms, design, statistics and machine learning.
 - ⚙️ I employ `.python`, `.sql`, `.sh`, `.json`, `.yml` for my day to day work.
 - 👯 I’m looking to collaborate on projects.
