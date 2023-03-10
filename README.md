@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning algorithms, design, statistics and machine learning.
 - ⚙️ I employ `.python`, `.sql`, `.sh`, `.json`, `.yml` for my day to day work.
 - 👯 I’m looking to collaborate on projects.
-- 🥅 2022 Goals: Upskilling and Gaining knowledge.
+- 🥅 2023 Goals: Exploring, Upskilling and Gaining knowledge.
 - ⚡ Fun fact: I love to cook.
 
 <br />
